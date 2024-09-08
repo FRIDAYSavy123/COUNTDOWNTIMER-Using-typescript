@@ -1,0 +1,16 @@
+{
+  "name": "blazingx-countdown-timer",
+  "version": "1.0.1",
+  "description": "here it is countdown-timer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "blazing-countdown-timer": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul Raffay",
+  "license": "ISC",
+  "keywords": []
+}
